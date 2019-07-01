@@ -1,4 +1,4 @@
-package com.ThreadPool;
+package com.MultiThreading;
 
 
 //Java program to illustrate  

@@ -1,4 +1,4 @@
-package com.ThreadPool;
+package com.MultiThreading;
 
 
 //Java code for thread creation by implementing 
